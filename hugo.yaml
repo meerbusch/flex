@@ -1,5 +1,5 @@
 ---
-title: "Zen demo site"
+title: "Flex Heat GmbH"
 baseURL: "https://zen-demo.xdeb.org/"
 theme: "github.com/frjo/hugo-theme-zen/v3"
 languageCode: "en-GB"
@@ -52,6 +52,7 @@ params:
   realfavicongenerator: true
   sidebar: false
   submitted: true
+  themecolor: #FFA500
 
 languages:
   en:
